@@ -96,7 +96,9 @@ Neuralchat/
 
 **Gorick Nath**
 BSc Computing Science — Griffith College Dublin,Ireland 🇮🇪.
-Building AI agents & automations
+
+Building AI agents & automations 🤖
+
 Founding ZynthoAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorick-nath-aigeek)
