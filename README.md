@@ -107,3 +107,5 @@ Founding ZynthoAI
 ---
 
 > *"Every line of code is a step forward."*
+
+> This project is part of my developer portfolio. Feel free to fork and build on it!
